@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54f84b7d-93ae-4597-bd55-cdf981c2f6d9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/function prac/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/function prac/function.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="37p5xzpR27FJg7ESXkzhKjOGs7V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/wamp64/www/employee-attendance",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Shima_Desktop_Mydoc\Desktop\jsPractice\function prac" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54f84b7d-93ae-4597-bd55-cdf981c2f6d9" name="Changes" comment="" />
+      <created>1767587422963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767587422963</updated>
+      <workItem from="1767587424190" duration="1549000" />
+      <workItem from="1767673763438" duration="35000" />
+      <workItem from="1767785335648" duration="208000" />
+      <workItem from="1768819774650" duration="12000" />
+      <workItem from="1768819837960" duration="1428000" />
+      <workItem from="1768879947896" duration="864000" />
+      <workItem from="1769077741437" duration="592000" />
+      <workItem from="1769867501631" duration="2571000" />
+      <workItem from="1769919886146" duration="14000" />
+      <workItem from="1770093183342" duration="620000" />
+      <workItem from="1770263194383" duration="1183000" />
+      <workItem from="1770612267416" duration="745000" />
+      <workItem from="1770693841065" duration="2645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
