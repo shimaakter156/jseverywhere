@@ -1,6 +1,28 @@
 
 
 
+// //pass by value of reference value
+//
+// let person = {
+//     name:'sdsd',
+//     age : 25
+// }
+// function printper(obj){
+//     obj.age+=1;
+// }
+//
+// printper(person)
+// console.log(person)
+
+// // pass by value pimitive values
+// function square(x){
+//     x = x*x;
+//     return x;
+// }
+// let y = 10;
+// let result = square(y)
+// console.log(result);
+
 // //arrow function
 // let show = function () {
 //     console.log('sdsd')
@@ -32,7 +54,7 @@
 // };
 //
 // show()
-//function pass into function
+////function pass into function
 // function cmToIn(length){
 //     return length/2.5
 // }
