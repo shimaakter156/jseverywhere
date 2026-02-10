@@ -1,6 +1,11 @@
 
+//recursive fun which call itselfs
 
-
+function countdown(num){
+    console.log(num)
+    countdown(num-1)
+}
+countdown(10)
 // //pass by value of reference value
 //
 // let person = {
