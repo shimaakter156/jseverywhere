@@ -1,11 +1,42 @@
-
-//recursive fun which call itselfs
-
-function countdown(num){
-    console.log(num)
-    countdown(num-1)
+let person1 ={
+    firstName:'john',
+    lastName:'doe'
 }
-countdown(10)
+function Person(first,last){
+    this.first = first;
+    this.last = last
+}
+let person = new Person('john','doe');
+console.log(person,person1);
+
+//object model
+// let person ={
+//     firstname:'shima',
+//     secondname:'akter'
+//
+// }
+// person.greet = () => console.log('sdsd')
+//
+//
+// console.log(person.greet())
+// //recursive fun which call itselfs
+// let countDown = function f(num){
+//     console.log(num)
+//     let nextnum = num-1;
+//     if (nextnum>0){
+//         f(nextnum)
+//     }
+// }
+//
+// let nexYear = countDown;
+// countDown = null;
+// nexYear(10)
+
+// function countdown(num){
+//     console.log(num)
+//     countdown(num-1)
+// }
+// countdown(10)
 // //pass by value of reference value
 //
 // let person = {

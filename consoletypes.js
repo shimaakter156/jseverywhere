@@ -1,5 +1,42 @@
-// //groupconsole
+// // //groupconsole
+// //
 //
+//
+// console.profile('MyProfile');
+//
+// // Code to profile
+// for (let i = 0; i < 100000; i++) {
+//     // Some operations
+// }
+//
+// console.profileEnd('MyProfile');
+//
+// console.time('Array Processing');
+//
+// let arr = [];
+// for (let i = 0; i < 1000000; i++) {
+//     arr.push(i);
+// }
+//
+// console.timeEnd('Array Processing');
+// // Output: Array Processing: 45.123ms
+//
+//
+// console.count('sdsd')
+// console.count('sdsd')
+// console.count('sdsd')
+// console.count('SDSWE')
+// console.countReset('sdsd')
+// console.count('sdsd')
+//
+// function greet(name){
+//     console.count(name)
+//     return `hello ${name}`;
+// }
+// greet('hello')
+// greet('heSDSllo')
+// greet('hello')
+
 // const employee = {
 //     name:'john',
 //     age:30,
