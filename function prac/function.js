@@ -1,13 +1,23 @@
-let person1 ={
-    firstName:'john',
-    lastName:'doe'
-}
-function Person(first,last){
-    this.first = first;
-    this.last = last
-}
-let person = new Person('john','doe');
-console.log(person,person1);
+// function Person(first,last){
+//     this.first = first;
+//     this.last = last;
+//     this.getFull = function(){
+//         return this.first+" "+this.last
+//     };
+// }
+// let person = new Person('john','doe');
+// console.log(person.getFull());
+//
+// let person1 ={
+//     firstName:'john',
+//     lastName:'doe'
+// }
+// function Person(first,last){
+//     this.first = first;
+//     this.last = last
+// }
+// let person = new Person('john','doe');
+// console.log(person,person1);
 
 //object model
 // let person ={
